@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="150" src="https://i.ibb.co/thmMwrG/githubbg.png"  />
-</div>
 
 ###
 
