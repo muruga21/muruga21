@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">A Computer Science student passionate about software development. I’m also an avid open source contributor and enjoy creating innovative web and mobile applications</p>
+<p align="left">A Computer Science student passionate about software development. I enjoy creating innovative web and mobile applications</p>
 
 ###
 
