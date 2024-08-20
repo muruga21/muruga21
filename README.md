@@ -1,3 +1,3 @@
 ## 👋 hlo!! i'm muruga :)
 
-say hi to me: [linkedin](https://www.linkedin.com/in/murugaperumalr/)
+connect with me: [linkedin](https://www.linkedin.com/in/murugaperumalr/)
